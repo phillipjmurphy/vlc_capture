@@ -1,28 +1,3 @@
-
-# vlc_capture
-
-Quick Notes on capturing video with VLC
-
-## Links to resources that helped
-
-[videolan Mac_OS_X](https://wiki.videolan.org/Mac_OS_X/)
-
-``` bash
-# This helps to clean things up.
-alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'
-
-```
-
-## Screen capture on my mac with VLC
-
-At first I just used the VLC ui to capture the screen.
-The options are many however the ones that I used are in the screen shot.
-
-I think I still need to play with the audio channel.
-I have the BOSE QC35 headphones that I'm not sure how to select or capture the right channel .
-
-```
-
 Usage: vlc [options] [stream] ...
 You can specify multiple streams on the commandline.
 They will be enqueued in the playlist.
@@ -432,6 +407,3 @@ URL syntax:
 Note: add --advanced to your command line to see advanced options.
 
 To get exhaustive help, use '-H'.
-
-
-```
